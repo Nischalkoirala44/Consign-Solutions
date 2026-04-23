@@ -23,8 +23,6 @@ export default function Footer() {
              <Link href="/privacy" className="text-xs hover:text-cyan-400 transition-colors underline decoration-slate-700 underline-offset-4">
               Privacy Policy
             </Link>
-            <span className="text-slate-800">|</span>
-            <span className="text-[10px] text-slate-500 font-mono uppercase tracking-wider">PAN: 610011290</span>
           </div>
         </div>
 
